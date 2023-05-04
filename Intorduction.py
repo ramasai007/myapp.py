@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import pickle
 from PIL import Image
-from rdkit import Chem
+
 from rdkit.Chem import Descriptors
 st.title("RAMA SAI   KURETI")
 
