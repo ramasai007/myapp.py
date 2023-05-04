@@ -8,7 +8,7 @@ st.title("RAMA SAI   KURETI")
 col1,col2=st.columns(2)
 import pathlib
 with col1:
-        src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fanime-naruto-hd-2023-ai-wallpaper%2F&psig=AOvVaw1ESd2ZiU7VyPZF0MjNxpzK&ust=1683289639892000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiDwtrU2_4CFQAAAAAdAAAAABAE'
+        src='https://images.wallpapersden.com/image/wxl-anime-naruto-hd-2023-ai_89174.jpg'
         
     
 with col2:
